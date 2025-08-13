@@ -10,6 +10,7 @@ int main() {
 	printf("Mackenzie - FCI\n");
 	printf("Algoritmos e Programação II ");
 	printf("Ciência da Computação - FCI - Mack\n");
+	printf("FCI foi fundada em 1970");
 	printf("Turma: 02P");
 	
 	// pausa antes de terminar o programa
